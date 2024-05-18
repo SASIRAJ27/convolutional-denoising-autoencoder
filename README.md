@@ -1,4 +1,4 @@
-![EX7ED1](https://github.com/SASIRAJ27/convolutional-denoising-autoencoder/assets/113497176/a8afa7dd-88a8-44b9-bcda-7e6c28fc0b57)# Convolutional Autoencoder for Image Denoising
+# Convolutional Autoencoder for Image Denoising
 
 ## AIM
 
